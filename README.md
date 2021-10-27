@@ -1,5 +1,5 @@
 # chromium-macos-updater
-Simple script to update chromium under macOS
+Simple script to update chromium under macOS to the latest version available
 
 ## How to install #1
 1. Copy chromium_update.sh from this repo to /Users/Shared/mbin/
